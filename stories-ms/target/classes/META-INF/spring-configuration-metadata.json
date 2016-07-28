@@ -1,0 +1,20 @@
+{
+  "groups": [
+    {
+      "name": "finder",
+      "type": "com.codependent.storyteller.StoryConfig",
+      "sourceType": "com.codependent.storyteller.StoryConfig"
+    },
+    {
+      "name": "finder",
+      "type": "com.codependent.storyteller.StoryPropertyHolder",
+      "sourceType": "com.codependent.storyteller.StoryPropertyHolder"
+    }
+  ],
+  "properties": [{
+    "name": "finder.story-list",
+    "type": "com.codependent.storyteller.IStoryList",
+    "sourceType": "com.codependent.storyteller.StoryConfig"
+  }],
+  "hints": []
+}
